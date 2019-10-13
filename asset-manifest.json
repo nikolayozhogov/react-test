@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/react-test/static/css/main.981f7211.chunk.css",
-    "main.js": "/react-test/static/js/main.ceea2d48.chunk.js",
-    "main.js.map": "/react-test/static/js/main.ceea2d48.chunk.js.map",
-    "runtime-main.js": "/react-test/static/js/runtime-main.82ba21a4.js",
-    "runtime-main.js.map": "/react-test/static/js/runtime-main.82ba21a4.js.map",
-    "static/css/2.70f3b80d.chunk.css": "/react-test/static/css/2.70f3b80d.chunk.css",
-    "static/js/2.f0df8ff6.chunk.js": "/react-test/static/js/2.f0df8ff6.chunk.js",
-    "static/js/2.f0df8ff6.chunk.js.map": "/react-test/static/js/2.f0df8ff6.chunk.js.map",
-    "index.html": "/react-test/index.html",
-    "precache-manifest.3a135f53ec26161d1d4f6c912a3bcec1.js": "/react-test/precache-manifest.3a135f53ec26161d1d4f6c912a3bcec1.js",
-    "service-worker.js": "/react-test/service-worker.js",
-    "static/css/2.70f3b80d.chunk.css.map": "/react-test/static/css/2.70f3b80d.chunk.css.map",
-    "static/css/main.981f7211.chunk.css.map": "/react-test/static/css/main.981f7211.chunk.css.map",
-    "static/media/persik.png": "/react-test/static/media/persik.4e1ec840.png"
+    "main.css": "./static/css/main.981f7211.chunk.css",
+    "main.js": "./static/js/main.ceea2d48.chunk.js",
+    "main.js.map": "./static/js/main.ceea2d48.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.5320a5b3.js",
+    "runtime-main.js.map": "./static/js/runtime-main.5320a5b3.js.map",
+    "static/css/2.70f3b80d.chunk.css": "./static/css/2.70f3b80d.chunk.css",
+    "static/js/2.61b5d9a2.chunk.js": "./static/js/2.61b5d9a2.chunk.js",
+    "static/js/2.61b5d9a2.chunk.js.map": "./static/js/2.61b5d9a2.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.bf803320a1a4ede30185410288b36ec6.js": "./precache-manifest.bf803320a1a4ede30185410288b36ec6.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.70f3b80d.chunk.css.map": "./static/css/2.70f3b80d.chunk.css.map",
+    "static/css/main.981f7211.chunk.css.map": "./static/css/main.981f7211.chunk.css.map",
+    "static/media/persik.png": "./static/media/persik.4e1ec840.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.82ba21a4.js",
+    "static/js/runtime-main.5320a5b3.js",
     "static/css/2.70f3b80d.chunk.css",
-    "static/js/2.f0df8ff6.chunk.js",
+    "static/js/2.61b5d9a2.chunk.js",
     "static/css/main.981f7211.chunk.css",
     "static/js/main.ceea2d48.chunk.js"
   ]

@@ -1,7 +1,7 @@
 $(function(){
 	// Плавная прокрутка к якорю
 	$('body').on('click', '.scroll_link', function(e) {
-		e.preventDefault()
+		//e.preventDefault()
 
 		let nextEl = $(this).closest('section').next()
 

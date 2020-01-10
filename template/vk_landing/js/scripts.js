@@ -10,6 +10,8 @@ $(function(){
 		$('html, body').stop().animate({
 		   	scrollTop: $(nextEl).offset().top
 		}, 1000)
+
+		return false;
 	})
 })
 

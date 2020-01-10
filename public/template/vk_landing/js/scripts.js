@@ -3,6 +3,8 @@ $(function(){
 	$('body').on('click', '.scroll_link', function(e) {
 		//e.preventDefault()
 
+		console.log('click');
+
 		let nextEl = $(this).closest('section').next()
 
 		$('html, body').stop().animate({
